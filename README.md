@@ -86,8 +86,6 @@ Before you begin, ensure you have the following prerequisites installed on your 
 
 #### 2. Install npm (Node Package Manager) - This comes bundled with Node.js
 
-- MongoDB (https://www.mongodb.com/)
-
 #### 3. Clone the Repository
 
 Start by cloning the Real Time Soccer Score project repository to your local machine. Open your terminal (command prompt for Windows users) and run the following command:
