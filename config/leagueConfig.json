@@ -1,0 +1,144 @@
+{
+  "wc": {
+    "id": 1,
+    "name": "World Cup",
+    "type": "tournament",
+    "country": "world",
+    "from": null,
+    "to": null,
+    "timezone": "utc",
+    "mydb": "test",
+    "collection": "ApiTourWorldCup",
+    "collectionSquad": "WorldCupTeam"
+  },
+
+  "cl": {
+    "id": 2,
+    "name": "UEFA Champions League",
+    "type": "tournament",
+    "country": "world",
+    "from": "2022-09-01",
+    "to": "2023-07-01",
+    "timezone": "utc",
+    "mydb": "test",
+    "collection": "ApiTourChampionsLeague",
+    "collectionSquad": "ChampionsLeagueTeam"
+  },
+
+  "el": {
+    "id": 3,
+    "name": "UEFA Europa League",
+    "type": "tournament",
+    "country": "world",
+    "from": "2022-09-01",
+    "to": "2023-07-01",
+    "timezone": "utc",
+    "mydb": "test",
+    "collection": "ApiTourEuropaLeague",
+    "collectionSquad": "EuropaLeagueTeam"
+  },
+
+  "ecl": {
+    "id": 848,
+    "name": " UEFA Europa Conference League",
+    "type": "tournament",
+    "country": "world",
+    "from": "2022-09-01",
+    "to": "2023-07-01",
+    "timezone": "utc",
+    "mydb": "test",
+    "collection": "ApiTourEuropaConfLeague",
+    "collectionSquad": "EuropaConfLeagueTeam"
+  },
+
+  "ec": {
+    "id": 4,
+    "name": "UEFA Euro",
+    "type": "tournament",
+    "country": "world",
+    "from": null,
+    "to": null,
+    "timezone": "utc",
+    "mydb": "test",
+    "collection": "ApiTourEuro",
+    "collectionSquad": "EuroTeam"
+  },
+
+  "l1": {
+    "id": 61,
+    "name": "Ligue 1",
+    "type": "championnat",
+    "country": "france",
+    "from": null,
+    "to": null,
+    "timezone": "utc",
+    "mydb": "test",
+    "collection": "ApiChampLigue1",
+    "collectionSquad": "Ligue1Team"
+  },
+
+  "ll": {
+    "id": 140,
+    "name": "LaLiga",
+    "type": "championnat",
+    "country": "spain",
+    "from": null,
+    "to": null,
+    "timezone": "utc",
+    "mydb": "test",
+    "collection": "ApiChampLiga",
+    "collectionSquad": "LigaTeam"
+  },
+
+  "pl": {
+    "id": 39,
+    "name": "Premier League",
+    "type": "championnat",
+    "country": "england",
+    "from": null,
+    "to": null,
+    "timezone": "utc",
+    "mydb": "test",
+    "collection": "ApiChampPremierLeague",
+    "collectionSquad": "PremierLeagueTeam"
+  },
+
+  "sa": {
+    "id": 135,
+    "name": "Serie A",
+    "type": "championnat",
+    "country": "italy",
+    "from": null,
+    "to": null,
+    "timezone": "utc",
+    "mydb": "test",
+    "collection": "ApiChampSerieA",
+    "collectionSquad": "SerieATeam"
+  },
+
+  "bl": {
+    "id": 78,
+    "name": "Bundesliga",
+    "type": "championnat",
+    "country": "germany",
+    "from": null,
+    "to": null,
+    "timezone": "utc",
+    "mydb": "test",
+    "collection": "ApiChampBundesliga",
+    "collectionSquad": "BundesligaTeam"
+  },
+
+  "prml": {
+    "id": 94,
+    "name": "Primeira Liga",
+    "type": "championnat",
+    "country": "portugal",
+    "from": null,
+    "to": null,
+    "timezone": "utc",
+    "mydb": "test",
+    "collection": "ApiChampPrimeiraLiga",
+    "collectionSquad": "PrimeiraLigaTeam"
+  }
+}

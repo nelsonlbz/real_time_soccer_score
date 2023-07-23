@@ -1,0 +1,15 @@
+{
+  "getCompetitionFixtures": {
+    "competition": "ll",
+    "season": 2022
+  },
+  "getCompetitionTeamSquad": {
+    "competition": "ll",
+    "season": 2022
+  },
+  "getFixturesLiveData": {
+    "competition": "pl",
+    "season": 2022,
+    "frequency": 120000
+  }
+}
