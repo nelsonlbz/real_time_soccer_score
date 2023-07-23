@@ -12,15 +12,15 @@ The main objective of this project is to provide an automated solution to retrie
 
 ## Files
 
-### 1. `getCompetitionFixtures.js`
+### 1. getCompetitionFixtures.js
 
 This file fetches and processes fixtures (matches) related to a specific competition. It utilizes the configurations from `apiConfig.json`, `dbConfig.json`, `leagueConfig.json`, and `projectConfig.json`. The fixtures data is fetched from the RapidAPI's `api-football-v1` and stored in a MongoDB collection.
 
-### 2. `getCompetitionTeamSquad.js`
+### 2. getCompetitionTeamSquad.js
 
 This file fetches and processes team squads for a specific competition. It uses the configurations from `apiConfig.json`, `dbConfig.json`, `leagueConfig.json`, and `projectConfig.json`. The team squad data is fetched from the RapidAPI's `api-football-v1` and stored in a MongoDB collection.
 
-### 3. `getFixturesLiveData.js`
+### 3. getFixturesLiveData.js
 
 This file fetches and processes live data for fixtures scheduled on the current day. It relies on the configurations from `apiConfig.json`, `dbConfig.json`, `leagueConfig.json`, and `projectConfig.json`. The live data for fixtures is fetched from the RapidAPI's `api-football-v1`, and the updated information is stored in a MongoDB collection. The data is continuously updated at a specified frequency.
 
