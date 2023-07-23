@@ -26,7 +26,7 @@ This file fetches and processes live data for fixtures scheduled on the current 
 
 ## Config Files
 
-### 1. `leagueConfig.json`
+### 1. leagueConfig.json
 
 The `leagueConfig.json` file contains configuration data for various football leagues and tournaments. Each league or tournament is represented by a unique key (e.g., `"wc"` for `World Cup`, `"cl"` for `UEFA Champions League`, etc.), and the corresponding values represent the properties for each league/tournament.
 
@@ -47,7 +47,7 @@ For example, let's consider the entry for LaLiga (ll):
 },
 ```
 
-### 2. `projectConfig.json`
+### 2. projectConfig.json
 
 The projectConfig.json file contains configuration data for different tasks or actions that the project needs to perform. It allows you to define the settings for fetching fixtures, team squads, and live data for specific competitions and seasons.
 
